@@ -12,5 +12,8 @@
 - [创造狮 创意工作者导航](http://chuangzaoshi.com/) - (簡)蒐集非常多工具型服務，本頁面大部分內容來自此站
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Github上最多的蒐集站清單
 
+## Wordpress
+- [https://www.wpthemedetector.com/](https://www.wpthemedetector.com/)
+
 ## 工具網站
 - [Plover | 瀏覽器文件傳輸](https://plover.io/) - 好用的瀏覽器傳檔網站，同一網域一起打開就可以分享檔案
